@@ -38,6 +38,7 @@ build() {
       --libexecdir=/usr/lib \
       --with-openssl \
       --enable-no-install-program=groups,hostname,kill,uptime
+  autoreconf
   make
 }
 
