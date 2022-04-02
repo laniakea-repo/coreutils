@@ -1,0 +1,4 @@
+*
+!.gitignore
+!01-fix-fs72253.patch
+!PKGBUILD
